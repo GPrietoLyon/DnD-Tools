@@ -1,0 +1,341 @@
+booming blade	0
+control flames	0
+create bonfire	0
+frostbite	0
+green-flame blade	0
+gust	0
+infestation	0
+lightning lure	0
+mind sliver	0
+mold earth	0
+shape water	0
+sword burst	0
+thunderclap	0
+toll the dead	0
+absorb elements	0
+catapult	0
+cause fear	0
+distort value	0
+earth tremor	0
+find familiar	0
+frost fingers	0
+ice knife	0
+jim's magic missile	0
+silvery barbs	0
+snare	0
+tasha's caustic brew	0
+aganazzar's scorcher	0
+air bubble	0
+borrowed knowledge	0
+dragon's breath	0
+dust devil	0
+earthbind	0
+flock of familiars	0
+gift of gab	0
+jim's glowing coin	0
+kinetic jaunt	0
+maximilian's earthen grasp	0
+mind spike	0
+nathair's mischief	0
+pyrotechnics	0
+rime's binding ice	0
+shadow blade	0
+skywrite	0
+snilloc's snowball swarm	0
+tasha's mind whip	0
+vortex warp	0
+warding wind	0
+wither and bloom	0
+ashardalon's stride	0
+catnap	0
+enemies abound	0
+erupting earth	0
+fast friends	0
+flame arrows	0
+galder's tower	0
+incite greed	0
+intellect fortress	0
+life transference	0
+linked glyphs	0
+melf's minute meteors	0
+spirit shroud	0
+summon fey	0
+summon lesser demons	0
+summon shadowspawn	0
+summon undead	0
+thunder step	0
+tidal wave	0
+tiny servant	0
+wall of sand	0
+wall of water	0
+charm monster	0
+elemental bane	0
+galder's speedy courier	0
+leomund's secret chest	0
+mordenkainen's private sanctum	0
+raulothim's psychic lance	0
+sickening radiance	0
+storm sphere	0
+summon aberration	0
+summon construct	0
+summon elemental	0
+summon greater demon	0
+vitriolic sphere	0
+watery sphere	0
+control winds	0
+create spelljamming helm	0
+danse macabre	0
+dawn	0
+enervation	0
+far step	0
+immolation	0
+infernal calling	0
+negative energy flood	0
+skill empowerment	0
+steel wind strike	0
+summon draconic spirit	0
+synaptic static	0
+transmute rock	0
+wall of light	0
+create homunculus	0
+fizban's platinum shield	0
+guards and wards	0
+investiture of flame	0
+investiture of ice	0
+investiture of stone	0
+investiture of wind	0
+magic jar	0
+mental prison	0
+scatter	0
+soul cage	0
+summon fiend	0
+tasha's otherworldly guise	0
+tenser's transformation	0
+create magen	0
+crown of stars	0
+draconic transformation	0
+dream of the blue veil	0
+mordenkainen's sword	0
+power word pain	0
+whirlwind	0
+abi-dalzim's horrid wilting	0
+antipathy/sympathy	0
+illusory dragon	0
+maddening darkness	0
+mighty fortress	0
+sunburst	0
+blade of disaster	0
+invulnerability	0
+mass polymorph	0
+psychic scream	0
+illusory script	1
+magic mouth	1
+nystul's magic aura	1
+rope trick	1
+feign death	1
+glyph of warding	1
+leomund's tiny hut	1
+planar binding	1
+contingency	1
+drawmij's instant summons	1
+otiluke's freezing sphere	1
+sunbeam	1
+delayed blast fireball	1
+mordenkainen's magnificent mansion	1
+sequester	1
+clone	1
+demiplane	1
+telepathy	1
+enhance ability	2
+conjure minor elementals	2
+teleportation circle	2
+simulacrum	2
+astral projection	2
+prismatic wall	2
+shapechange	2
+true polymorph	2
+weird	2
+continual flame	3
+mordenkainen's faithful hound	3
+passwall	3
+incendiary cloud	3
+true strike	4
+grease	4
+gentle repose	4
+phantom steed	4
+contact other plane	4
+programmed illusion	4
+antimagic field	4
+gate	4
+tenser's floating disk	5
+magic circle	5
+fabricate	5
+otiluke's resilient sphere	5
+creation	5
+arcane gate	5
+flesh to stone	5
+otto's irresistible dance	5
+mirage arcane	5
+alarm	6
+eyebite	6
+imprisonment	6
+meteor swarm	6
+cloud of daggers	7
+animate objects	7
+legend lore	7
+create undead	7
+move earth	7
+arcane lock	8
+rary's telepathic bond	8
+prismatic spray	8
+foresight	8
+witch bolt	9
+darkvision	9
+knock	9
+blink	9
+sleet storm	9
+reverse gravity	9
+mind blank	9
+flaming sphere	10
+vampiric touch	10
+fire shield	10
+seeming	10
+etherealness	10
+project image	10
+longstrider	11
+magic weapon	11
+evard's black tentacles	11
+phantasmal killer	11
+dream	11
+wish	11
+blade ward	12
+false life	12
+augury	12
+ray of enfeeblement	12
+remove curse	12
+wall of stone	12
+circle of death	12
+disintegrate	12
+maze	12
+melf's acid arrow	13
+shatter	13
+protection from energy	13
+hallucinatory terrain	13
+modify memory	13
+wall of ice	13
+forcecage	13
+power word kill	13
+chromatic orb	14
+arcane eye	14
+bigby's hand	14
+symbol	14
+spider climb	15
+slow	15
+stinking cloud	15
+locate creature	15
+stone shape	15
+conjure elemental	15
+ray of sickness	16
+unseen servant	16
+enlarge/reduce	16
+mislead	16
+power word stun	16
+color spray	17
+identify	17
+see invisibility	17
+haste	17
+geas	17
+blindness/deafness	18
+locate object	18
+chain lightning	18
+crown of madness	19
+web	19
+jump	20
+water breathing	20
+chill touch	21
+feather fall	21
+silent image	21
+tasha's hideous laughter	21
+speak with dead	21
+time stop	21
+expeditious retreat	22
+scorching ray	22
+clairvoyance	22
+nondetection	22
+control water	22
+divination	22
+acid splash	23
+phantasmal force	23
+feeblemind	23
+burning hands	24
+comprehend languages	24
+blur	24
+gaseous form	24
+wall of force	24
+mass suggestion	25
+true seeing	25
+poison spray	26
+globe of invulnerability	26
+control weather	26
+gust of wind	27
+bestow curse	27
+hypnotic pattern	27
+cloudkill	27
+finger of death	29
+protection from evil and good	30
+friends	32
+stoneskin	32
+dominate person	32
+blight	33
+wall of fire	33
+alter self	36
+tongues	36
+ice storm	36
+greater invisibility	38
+cone of cold	38
+hold monster	38
+dominate monster	38
+shocking grasp	40
+sleep	41
+animate dead	41
+confusion	43
+banishment	44
+sending	45
+polymorph	45
+ray of frost	49
+lightning bolt	49
+teleport	49
+fear	51
+fog cloud	52
+major image	52
+mirror image	54
+thunderwave	55
+mending	58
+scrying	58
+counterspell	60
+telekinesis	61
+message	62
+misty step	62
+fire bolt	63
+dimension door	64
+levitate	69
+magic missile	74
+fireball	74
+fly	75
+disguise self	76
+charm person	90
+darkness	90
+dancing lights	91
+shield	92
+plane shift	96
+hold person	98
+minor illusion	106
+suggestion	112
+detect thoughts	121
+invisibility	140
+prestidigitation	149
+mage armor	151
+light	158
+dispel magic	191
+detect magic	235
+mage hand	270
